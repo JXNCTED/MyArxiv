@@ -14,8 +14,13 @@ title = "Computer Vision and Pattern Recognition"
 
 [[sources]]
 limit = 150
-category = "cs.IR"
-title = "Information Retrieval"
+category = "cs.RO"
+title = "Robotics"
+
+[[sources]]
+limit = 150
+category = "cs.CV"
+title = "Vision"
 
 [[sources]]
 limit = 150
@@ -24,8 +29,13 @@ title = "Machine Learning"
 
 [[sources]]
 limit = 150
-category = "cs.MM"
-title = "Multimedia"
+category = "cs.SY"
+title = "System/Control"
+
+[[sources]]
+limit = 150
+category = "cs.OC"
+title = "Optimization/Control"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
